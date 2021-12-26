@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset>
+    <url>
+        <loc>https://lncrgk.cn/post/baokaozhidao/</loc>
+        <!--报考指导-->
+        <lastmod>2021-12-22</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://lncrgk.cn/post/zhongzhuan/</loc>
+        <!--电大中专-->
+        <lastmod>2021-12-22</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://lncrgk.cn/tag/zhuanshengben/</loc>
+        <!--专升本-->
+        <lastmod>2021-12-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://lncrgk.cn/tag/gaoqiben/</loc>
+        <!--高起本-->
+        <lastmod>2021-12-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://lncrgk.cn/tag/gaoqiben/</loc>
+        <!--高起专-->
+        <lastmod>2021-12-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>
